@@ -4,6 +4,7 @@
 Dockerfile
 .dockerignore
 RAILWAY-DEPLOY.md
+railway/Dockerfile
 railway/railway.json
 railway/.env.production
 railway/README.md
