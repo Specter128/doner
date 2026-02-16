@@ -1,0 +1,12 @@
+# Fișiere obligatorii pentru deploy Railway (trebuie în repo)
+# Fă commit la toate acestea:
+
+Dockerfile
+.dockerignore
+RAILWAY-DEPLOY.md
+railway/railway.json
+railway/.env.production
+railway/README.md
+
+# Plus întregul proiect: backend/, frontend/
+# Comandă: git add . && git status
